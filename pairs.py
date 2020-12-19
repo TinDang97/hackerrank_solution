@@ -1,8 +1,8 @@
 #!/bin/python3
 
 # link of problem: https://www.hackerrank.com/challenges/pairs/problem
-# My solution using binary tree with O(N * log(N))
-# if your array without duplicate elements, best solution is hash map
+# My solution using binary tree `O(N * log(N))`
+# if your array contain non-duplicated elements, best solution will be hash map `O(n)`
 # Ref: https://www.geeksforgeeks.org/count-pairs-difference-equal-k/
 
 import math
